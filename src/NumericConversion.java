@@ -6,7 +6,8 @@ public class NumericConversion {
         int menuChoice;
         String usersInput;
 
-        System.out.println("Decoding Menu");
+        System.out.println("Decoding Menu"); // Prints the main menu 
+        
         System.out.println("-------------");
         System.out.println("1. Decode hexadecimal");
         System.out.println("2. Decode binary");
